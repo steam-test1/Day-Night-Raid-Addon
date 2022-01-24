@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<underlay>
+	<load_scene file="environments/vanilla/inner_env_castle_main_morning/inner_env_castle_main_morning" materials="environments/vanilla/inner_env_castle_main_morning/inner_env_castle_main_morning">
+		<object name="g_sky" enabled="true" force_sort_depth="100000"/>
+	</load_scene>
+</underlay>

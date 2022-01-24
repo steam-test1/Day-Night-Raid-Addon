@@ -1,0 +1,6 @@
+Hooks:PostHook(HUDBlackScreen, "init", "veritas_apply", function(self, hud)
+    veritasreborn:Load()
+    VeritasSet()
+    VeritasInstant()
+    managers.environment_controller:refresh_render_settings()
+end)

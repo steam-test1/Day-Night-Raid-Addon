@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<underlay>
+	<load_scene file="environments/vanilla/env_before_rain_004/env_before_rain_004" materials="environments/vanilla/env_before_rain_004/env_before_rain_004">
+		<object name="g_skydome" enabled="true" force_sort_depth="100000"/>
+	</load_scene>
+</underlay>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<underlay>
+	<load_scene file="environments/vanilla/env_camp_night/sky_2335_night_moon" materials="environments/vanilla/env_camp_night/sky_2335_night_moon">
+		<object name="g_sky" enabled="true" force_sort_depth="100000"/>
+		<object name="g_moon" enabled="true" force_sort_depth="100000"/>
+	</load_scene>
+</underlay>
