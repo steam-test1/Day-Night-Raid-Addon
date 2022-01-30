@@ -754,6 +754,6 @@ Hooks:Add("BeardLibCreateScriptDataMods", "VeritasCallBeardLibSequenceFuncs", fu
 	BeardLib:ReplaceScriptData(mod_path .. "assets/environments/rainbeforerain.environment", "custom_xml", "environments/rainbeforerain", "environment", true)
 	BeardLib:ReplaceScriptData(mod_path .. "assets/environments/raidtwilight_001.environment", "custom_xml", "environments/raidtwilight_001", "environment", true)
 	BeardLib:ReplaceScriptData(mod_path .. "assets/environments/raidsunny1.environment", "custom_xml", "environments/raidsunny1", "environment", true)
-	BeardLib:ReplaceScriptData(mod_path .. "assets/environments/env_menu.environment", "custom_xml", "environments/env_menu/env_menu", "environment")
+	-- BeardLib:ReplaceScriptData(mod_path .. "assets/environments/env_menu.environment", "custom_xml", "environments/env_menu/env_menu", "environment")
 
 end)
