@@ -1,3 +1,0 @@
-function TastNightDayReborn:init()
-    
-end

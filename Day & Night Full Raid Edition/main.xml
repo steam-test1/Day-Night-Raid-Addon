@@ -1,3 +1,0 @@
-<mod name="TastNightDayReborn" global_key="TastNightDayReborn" core_class="Core.lua">
-    <Package id="packages/skiesnewpack" file="addraidenv.xml"/>
-</mod>

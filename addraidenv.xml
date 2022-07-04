@@ -1,0 +1,523 @@
+<table directory="assets">
+	<texture path="core/environments/cloud_normal_df"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_008/env_day_sunny_008"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_007/env_day_sunny_007"/>
+	<texture path="environments/vanilla/env_day_sunny_007/day_sunny_spherical_007_df"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_006/env_day_sunny_006"/>
+	<texture path="environments/vanilla/env_day_sunny_009/day_sunny_spherical_009_df"/>
+	<texture path="environments/vanilla/env_day_sunny_010/day_sunny_spherical_010_df"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_009/env_day_sunny_009"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_010/env_day_sunny_010"/>
+	<scene load="true" path="environments/vanilla/env_fog_001/env_fog_001"/>
+	<texture path="environments/vanilla/env_day_sunny_006/day_sunny_spherical_006_df"/>
+	<texture path="environments/vanilla/env_day_sunny_005/day_sunny_spherical_005_df"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_002/env_day_sunny_002"/>
+	<texture path="environments/vanilla/env_day_sunny_002/day_sunny_spherical_003_df"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_001/env_day_sunny_001"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_005/env_day_sunny_005"/>
+	<texture path="environments/vanilla/env_day_sunny_003/day_sunny_spherical_004_df"/>
+	<texture path="environments/vanilla/env_day_sunny_004/day_sunny_spherical_004_df"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_003/env_day_sunny_003"/>
+	<scene load="true" path="environments/vanilla/env_day_sunny_004/env_day_sunny_004"/>
+	<texture path="environments/vanilla/env_day_sunny_001/day_sunny_spherical_001_df"/>
+	<texture path="environments/vanilla/env_fog_001/env_fog_001_df"/>
+	<texture path="environments/vanilla/env_fog_002/env_fog_002_df"/>
+	<texture path="environments/vanilla/env_morning_003/env_morning_003_df"/>
+	<scene load="true" path="environments/vanilla/env_morning_003/env_morning_003"/>
+	<texture path="environments/vanilla/env_morning_002/env_morning_002_df"/>
+	<scene load="true" path="environments/vanilla/env_morning_002/env_morning_002"/>
+	<scene load="true" path="environments/vanilla/env_morning_004/env_morning_004"/>
+	<scene load="true" path="environments/vanilla/env_morning_005/env_morning_005"/>
+	<texture path="environments/vanilla/env_morning_004/env_morning_004_df"/>
+	<texture path="environments/vanilla/env_morning_005/env_morning_005_df"/>
+	<scene load="true" path="environments/vanilla/env_fog_002/env_fog_002"/>
+	<texture path="environments/vanilla/env_morning_001/env_morning_001_df"/>
+	<texture path="environments/vanilla/env_hunters/env_night_007_df"/>
+	<scene load="true" path="environments/vanilla/env_fog_004/env_fog_004"/>
+	<texture path="environments/vanilla/env_fog_003/env_fog_003_df"/>
+	<scene load="true" path="environments/vanilla/env_fog_003/env_fog_003"/>
+	<scene load="true" path="environments/vanilla/env_morning_001/env_morning_001"/>
+	<texture path="environments/vanilla/env_fog_004/env_fog_004_df"/>
+	<scene load="true" path="environments/vanilla/env_hunters/env_hun_day"/>
+	<texture path="environments/vanilla/env_hunters/day_sunny_spherical_004_df"/>
+	<scene load="true" path="environments/vanilla/env_hunters/env_hun_night"/>
+	<scene load="true" path="environments/vanilla/env_night_001/env_night_001"/>
+	<texture path="environments/vanilla/env_camp_night/sky_2335_night_moon_df"/>
+	<texture path="environments/vanilla/env_camp_night/moon_df"/>
+	<texture path="environments/vanilla/cubemaps/env_twilight_004"/>
+	<texture path="environments/vanilla/cubemaps/env_twilight_003"/>
+	<texture path="environments/vanilla/cubemaps/env_twilight_002"/>
+	<texture path="environments/vanilla/cubemaps/env_twilight_001"/>
+	<texture path="environments/vanilla/cubemaps/env_twilight_005"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_bank_building_01_night"/>
+	<texture path="environments/vanilla/cubemaps/env_twilight_006"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_bank_building_02_night"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_bank_main_building_night"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_014"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_012"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_007"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_006"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_005"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_013"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_008"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_010"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_009"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_011"/>
+	<scene load="true" path="environments/vanilla/env_camp_night/sky_2335_night_moon"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_bank_vault_night"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_camp_night"/>
+	<texture path="environments/vanilla/env_before_rain_004/env_before_rain_004_df"/>
+	<scene load="true" path="environments/vanilla/env_before_rain_004/env_before_rain_004"/>
+	<texture path="environments/vanilla/env_before_rain_003/env_before_rain_003_df"/>
+	<scene load="true" path="environments/vanilla/env_before_rain_003/env_before_rain_003"/>
+	<scene load="true" path="environments/vanilla/env_before_rain_005/env_before_rain_005"/>
+	<scene load="true" path="environments/vanilla/env_before_rain_006/env_before_rain_006"/>
+	<texture path="environments/vanilla/env_before_rain_005/env_before_rain_005_df"/>
+	<texture path="environments/vanilla/env_before_rain_006/env_before_rain_006_df"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_bridge_main_fog"/>
+	<texture path="environments/vanilla/env_before_rain_002/env_before_rain_002_df"/>
+	<texture path="environments/vanilla/env_before_rain_001/env_before_rain_001_df"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_castle_main_sunset"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_castle_main_night"/>
+	<scene load="true" path="environments/vanilla/env_before_rain_002/env_before_rain_002"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_flaktrum_main_night"/>
+	<texture path="environments/vanilla/cubemaps/underwater_env_radio_twilight"/>
+	<texture path="environments/vanilla/cubemaps/inner_env_trainyard_main_fog"/>
+	<scene load="true" path="environments/vanilla/env_before_rain_001/env_before_rain_001"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_004"/>
+	<texture path="environments/vanilla/env_night_001/night_hemi_001_df"/>
+	<texture path="environments/vanilla/env_night_002/night_hemi_002_df"/>
+	<texture path="environments/vanilla/env_twilight_006/env_twilight_006_df"/>
+	<scene load="true" path="environments/vanilla/env_twilight_006/env_twilight_006"/>
+	<texture path="environments/vanilla/env_twilight_005/env_twilight_005_df"/>
+	<scene load="true" path="environments/vanilla/env_twilight_005/env_twilight_005"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_building_01_before_rain/inner_env_bank_building_01_before_rain"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_building_01_sunny/inner_env_bank_building_01_sunny"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_building_01_night/inner_env_bank_building_01_night"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_building_02_before_rain/inner_env_bank_building_02_before_rain"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_building_02_night/inner_env_bank_building_02_night"/>
+	<texture path="environments/vanilla/env_twilight_004/env_twilight_004_df"/>
+	<texture path="environments/vanilla/env_twilight_003/env_twilight_003_df"/>
+	<scene load="true" path="environments/vanilla/env_twilight_001/env_twilight_001"/>
+	<texture path="environments/vanilla/env_sunset_014/env_sunset_014_df"/>
+	<scene load="true" path="environments/vanilla/env_sunset_014/env_sunset_014"/>
+	<scene load="true" path="environments/vanilla/env_twilight_004/env_twilight_004"/>
+	<texture path="environments/vanilla/env_twilight_001/env_twilight_001_df"/>
+	<texture path="environments/vanilla/env_twilight_002/env_twilight_002_df"/>
+	<scene load="true" path="environments/vanilla/env_twilight_002/env_twilight_002"/>
+	<scene load="true" path="environments/vanilla/env_twilight_003/env_twilight_003"/>
+	<texture path="environments/vanilla/env_sunset_013/env_sunset_013_df"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_building_02_sunny/inner_env_bank_building_02_sunny"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_main_night/inner_env_bank_main_night"/>
+	<scene load="true" path="environments/vanilla/inner_env_flaktrum_main_night_005b/inner_env_flaktrum_main_night_005b"/>
+	<scene load="true" path="environments/vanilla/inner_env_flaktrum_main_night/inner_env_flaktrum_main_night"/>
+	<scene load="true" path="environments/vanilla/inner_env_castle_main_sunset/inner_env_castle_main_sunset"/>
+	<scene load="true" path="environments/vanilla/inner_env_castle_main_night/inner_env_castle_main_night"/>
+	<scene load="true" path="environments/vanilla/inner_env_flaktrum_main_sunset/inner_env_flaktrum_main_sunset"/>
+	<scene load="true" path="environments/vanilla/inner_env_trainyard_main_sunset/inner_env_trainyard_main_sunset"/>
+	<scene load="true" path="environments/vanilla/inner_env_trainyard_main_fog/inner_env_trainyard_main_fog_001"/>
+	<scene load="true" path="environments/vanilla/underwater_env_radio_sunny/underwater_env_radio_sunny"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_main_before_rain/inner_env_bank_main_before_rain"/>
+	<scene load="true" path="environments/vanilla/inner_env_castle_main_morning/inner_env_castle_main_morning"/>
+	<scene load="true" path="environments/vanilla/inner_env_bridge_main_sunset/inner_env_bridge_main_sunset"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_vault_night/inner_env_bank_vault_night"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_vault_before_rain/inner_env_bank_vault_before_rain"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_main_sunny/inner_env_bank_main_sunny"/>
+	<scene load="true" path="environments/vanilla/inner_env_castle_main_day/inner_env_castle_main_day"/>
+	<scene load="true" path="environments/vanilla/inner_env_bank_vault_sunny/inner_env_bank_vault_sunny"/>
+	<scene load="true" path="environments/vanilla/inner_env_bridge_main_fog/inner_env_bridge_main_fog"/>
+	<scene load="true" path="environments/vanilla/inner_env_bridge_main_day/inner_env_bridge_main_day"/>
+	<scene load="true" path="environments/vanilla/inner_env_bridge_main_night/inner_env_bridge_main_night"/>
+	<scene load="true" path="environments/vanilla/env_night_002/env_night_002"/>
+	<scene load="true" path="environments/vanilla/env_sunset_013/env_sunset_013"/>
+	<scene load="true" path="environments/vanilla/env_sunset_012/env_sunset_012"/>
+	<scene load="true" path="environments/vanilla/env_overcast_002/env_overcast_002"/>
+	<texture path="environments/vanilla/env_overcast_001/env_overcast_001_df"/>
+	<scene load="true" path="environments/vanilla/env_overcast_001/env_overcast_001"/>
+	<texture path="environments/vanilla/env_night_007/env_night_007_df"/>
+	<texture path="environments/vanilla/env_overcast_002/env_overcast_002_df"/>
+	<texture path="environments/vanilla/env_sps/sky_1900_semi_clear_df"/>
+	<scene load="true" path="environments/vanilla/env_sps/sky_1900_semi_clear"/>
+	<scene load="true" path="environments/vanilla/env_sunset_001/env_sunset_001"/>
+	<texture path="environments/vanilla/env_sunset_001/sunset_hemi_001_df"/>
+	<scene load="true" path="environments/vanilla/env_night_007/env_night_007"/>
+	<scene load="true" path="environments/vanilla/env_night_006/env_night_006"/>
+	<scene load="true" path="environments/vanilla/env_night_004/env_night_004"/>
+	<texture path="environments/vanilla/env_night_003/night_spherical_001_df"/>
+	<scene load="true" path="environments/vanilla/env_night_003/env_night_003"/>
+	<texture path="environments/vanilla/env_night_006/env_night_006_df"/>
+	<texture path="environments/vanilla/env_night_004/night_spherical_002_df"/>
+	<texture path="environments/vanilla/env_night_005/night_spherical_003_df"/>
+	<scene load="true" path="environments/vanilla/env_night_005/env_night_005"/>
+	<scene load="true" path="environments/vanilla/env_night_005_b/env_night_005_b"/>
+	<texture path="environments/vanilla/env_sunset_012/env_sunset_012_df"/>
+	<scene load="true" path="environments/vanilla/env_sunset_002/env_sunset_002"/>
+	<scene load="true" path="environments/vanilla/env_sunset_003/env_sunset_003"/>
+	<texture path="environments/vanilla/env_sunset_009/env_sunset_009_df"/>
+	<scene load="true" path="environments/vanilla/env_sunset_009/env_sunset_009"/>
+	<texture path="environments/vanilla/env_sunset_008/env_sunset_008_df"/>
+	<scene load="true" path="environments/vanilla/env_sunset_008/env_sunset_008"/>
+	<scene load="true" path="environments/vanilla/env_sunset_010/env_sunset_010"/>
+	<scene load="true" path="environments/vanilla/env_sunset_011/env_sunset_011"/>
+	<texture path="environments/vanilla/env_sunset_010/env_sunset_010_df"/>
+	<texture path="environments/vanilla/env_sunset_011/env_sunset_011_df"/>
+	<texture path="environments/vanilla/env_sunset_002/sunset_spherical_001_df"/>
+	<texture path="environments/vanilla/env_sunset_007/env_sunset_007_df"/>
+	<texture path="environments/vanilla/env_sunset_006/sunset_spherical_005_df"/>
+	<scene load="true" path="environments/vanilla/env_sunset_004/env_sunset_004"/>
+	<texture path="environments/vanilla/env_sunset_003/sunset_spherical_002_df"/>
+	<scene load="true" path="environments/vanilla/env_sunset_007/env_sunset_007"/>
+	<texture path="environments/vanilla/env_sunset_004/sunset_spherical_003_df"/>
+	<texture path="environments/vanilla/env_sunset_005/sunset_spherical_004_df"/>
+	<scene load="true" path="environments/vanilla/env_sunset_005/env_sunset_005"/>
+	<scene load="true" path="environments/vanilla/env_sunset_006/env_sunset_006"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_003"/>
+	<texture path="environments/vanilla/env_day_sunny_008/day_sunny_spherical_008_df"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_001"/>
+	<texture path="environments/cubemaps/cubemap_flakturm_int_001_df"/>
+	<texture path="environments/cubemaps/cubemap_diamond_01"/>
+	<texture path="environments/cubemaps/cubemap_gold"/>
+	<texture path="environments/cubemaps/cubemap_mirror"/>
+	<texture path="environments/cubemaps/cubemap_hq_night_int_001_df"/>
+	<texture path="environments/cubemaps/cubemap_radiostation_ext_001_df"/>
+	<texture path="environments/cubemaps/cubemap_camp_mission_part"/>
+	<texture path="environments/cubemaps/cubemap_bank_greenroom_mirror"/>
+	<scene load="true" path="core/environments/skies/sky_dah_night/sky_dah_night"/>
+	<texture path="environments/cubemaps/cubemap_bank_int_001_df"/>
+	<scene load="true" path="core/environments/skies/sky_v2_030_sun_low/sky_v2_030_sun_low"/>
+	<texture path="environments/cubemaps/cubemap_bank_ext_001_df"/>
+	<texture path="core/textures/clouds_composite"/>
+	<scene load="true" path="core/environments/skies/sky_csgo_de_bank_cs15_daylight02/sky_csgo_de_bank_cs15_daylight02"/>
+	<texture path="environments/cubemaps/cubemap_steel"/>
+	<texture path="environments/cubemaps/cubemap_trainyard_int_001_df"/>
+	<texture path="environments/vanilla/cg/cg_german_camp_hud"/>
+	<texture path="environments/vanilla/cg/cg_default"/>
+	<texture path="environments/vanilla/cg/cg_goldrush_sunny_001_hud"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_bank_greenroom_mirror"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_bank_ext_001_df"/>
+	<texture path="environments/cubemaps/cubemap_trainyard_ext_001_df"/>
+	<texture path="environments/cubemaps/inner_env_camp_night"/>
+	<texture path="environments/cubemaps/env_sunset_002"/>
+	<texture path="environments/cubemaps/cube_red_01"/>
+	<texture path="environments/cubemaps/env_twilight_003"/>
+	<texture path="environments/cubemaps/env_before_rain_001"/>
+	<texture path="environments/cubemaps/env_night_001"/>
+	<texture path="environments/cubemaps/env_day_sunny_001"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_bank_int_001_df"/>
+	<scene load="true" path="core/environments/skies/sky_cloudy_blue/sky_cloudy_blue"/>
+	<scene load="true" path="core/environments/skies/sky_city_clear/sky_city_clear"/>
+	<scene load="true" path="core/environments/skies/sky_1224_clear_sky/sky_1224_clear_sky"/>
+	<scene load="true" path="core/environments/skies/sky_1044_overcast_sun/sky_1044_overcast_sun"/>
+	<scene load="true" path="core/environments/skies/sky_1313_cloudy/sky_1313_cloudy"/>
+	<scene load="true" path="core/environments/skies/sky_1345_clear_sky/sky_1345_clear_sky"/>
+	<scene load="true" path="core/environments/skies/sky_1313_cloudy_dark/sky_1313_cloudy_dark"/>
+	<scene load="true" path="core/environments/skies/sky_1345_clear_sky_mountain_01/sky_1345_clear_sky_mountain_01"/>
+	<scene load="true" path="core/environments/skies/sky_1008_cloudy/sky_1008_cloudy"/>
+	<scene load="true" path="core/environments/skies/sky_0902_overcast_dark/sky_0902_overcast_dark"/>
+	<scene load="true" path="core/environments/skies/default/default"/>
+	<scene load="true" path="core/environments/skies/sky_0927_whispy_clouds/sky_0927_whispy_clouds"/>
+	<texture path="core/environments/skies/default/default"/>
+	<scene load="true" path="core/environments/skies/sky_0902_overcast/sky_0902_overcast"/>
+	<scene load="true" path="core/environments/skies/sky_0200_night_moon_stars/sky_0200_night_moon_stars"/>
+	<scene load="true" path="core/environments/skies/sky_city_clear_high/sky_city_clear_high"/>
+	<scene load="true" path="core/environments/skies/sky_1530_low_sun_clouds/sky_1530_low_sun_clouds"/>
+	<scene load="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds"/>
+	<texture path="environments/vanilla/cubemaps/env_sunset_002"/>
+	<scene load="true" path="core/environments/skies/sky_2003_dusk_blue_high_color_scale/sky_2003_dusk_blue_high_color_scale"/>
+	<scene load="true" path="core/environments/skies/sky_2003_sunrise/sky_2003_sunrise"/>
+	<scene load="true" path="core/environments/skies/sky_2335_night_moon/sky_2335_night_moon"/>
+	<scene load="true" path="core/environments/skies/sky_2100_moon/sky_2100_moon"/>
+	<scene load="true" path="core/environments/skies/sky_1830_low_sun_clouds/sky_1830_low_sun_clouds"/>
+	<scene load="true" path="core/environments/skies/sky_2003_dusk_blue/sky_2003_dusk_blue"/>
+	<scene load="true" path="core/environments/skies/sky_1945_sunset_clouds/sky_1945_sunset_clouds"/>
+	<scene load="true" path="core/environments/skies/sky_1930_sunset_heavy_clouds/sky_1930_sunset_heavy_clouds"/>
+	<scene load="true" path="core/environments/skies/sky_2000_twilight_mad/sky_2000_twilight_mad"/>
+	<scene load="true" path="core/environments/skies/sky_1930_twillight/sky_1930_twillight"/>
+	<scene load="true" path="core/environments/skies/sky_1945_sunset/sky_1945_sunset"/>
+	<scene load="true" path="core/environments/skies/sky_1931_low_sun/sky_1931_low_sun"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_camp_mission_part"/>
+	<scene load="true" path="environments/vanilla/underwater_env_radio_twilight/underwater_env_radio_twilight"/>
+	<texture path="environments/vanilla/cubemaps/env_before_rain_002"/>
+	<texture path="environments/vanilla/cubemaps/env_morning_004"/>
+	<texture path="environments/vanilla/cubemaps/env_overcast_001"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_008"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_trainyard_ext_001_df"/>
+	<texture path="environments/vanilla/cubemaps/env_night_002"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_003"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_004"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_radiostation_ext_001_df"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_steel"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_005"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_010"/>
+	<texture path="environments/vanilla/cubemaps/env_night_004"/>
+	<texture path="environments/vanilla/cubemaps/env_before_rain_001"/>
+	<texture path="environments/vanilla/cubemaps/env_before_rain_003"/>
+	<texture path="environments/vanilla/cubemaps/env_morning_002"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_trainyard_int_001_df"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_009"/>
+	<texture path="environments/vanilla/cubemaps/env_morning_005"/>
+	<texture path="environments/vanilla/cubemaps/cube_red_01"/>
+	<texture path="environments/vanilla/cubemaps/env_before_rain_006"/>
+	<texture path="environments/vanilla/cubemaps/env_night_006"/>
+	<texture path="environments/vanilla/cubemaps/env_overcast_002"/>
+	<texture path="environments/vanilla/cubemaps/env_fog_001"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_mirror"/>
+	<texture path="environments/vanilla/cubemaps/env_night_001"/>
+	<texture path="environments/vanilla/cubemaps/env_fog_003"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_flakturm_int_001_df"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_001"/>
+	<texture path="environments/vanilla/cubemaps/env_night_003"/>
+	<texture path="environments/vanilla/cubemaps/env_before_rain_005"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_flakturm_ext_001_df"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_diamond_01"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_007"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_002"/>
+	<texture path="environments/vanilla/cubemaps/env_day_sunny_006"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_gold"/>
+	<texture path="environments/vanilla/cubemaps/env_fog_002"/>
+	<texture path="environments/vanilla/cubemaps/env_morning_003"/>
+	<texture path="environments/vanilla/cubemaps/env_morning_001"/>
+	<texture path="environments/vanilla/cubemaps/env_night_005"/>
+	<texture path="environments/vanilla/cubemaps/env_night_005_b"/>
+	<texture path="environments/vanilla/cubemaps/env_night_007"/>
+	<texture path="environments/vanilla/cubemaps/env_before_rain_004"/>
+	<texture path="environments/vanilla/cubemaps/cubemap_hq_night_int_001_df"/>
+	<model path="environments/vanilla/inner_env_bank_vault_night/inner_env_bank_vault_night"/>
+	<model path="environments/vanilla/env_sps/sky_1900_semi_clear"/>
+	<model path="core/environments/skies/sky_1224_clear_sky/sky_1224_clear_sky"/>
+	<model path="core/environments/skies/sky_2003_sunrise/sky_2003_sunrise"/>
+	<model path="environments/vanilla/env_overcast_002/env_overcast_002"/>
+	<model path="environments/vanilla/env_night_006/env_night_006"/>
+	<model path="core/environments/skies/sky_2100_moon/sky_2100_moon"/>
+	<model path="environments/vanilla/inner_env_bank_building_01_sunny/inner_env_bank_building_01_sunny"/>
+	<model path="environments/vanilla/inner_env_bridge_main_fog/inner_env_bridge_main_fog"/>
+	<model path="environments/vanilla/env_night_005_b/env_night_005_b"/>
+	<model path="core/environments/skies/sky_2003_dusk_blue_high_color_scale/sky_2003_dusk_blue_high_color_scale"/>
+	<model path="environments/vanilla/inner_env_bridge_main_day/inner_env_bridge_main_day"/>
+	<model path="environments/vanilla/env_overcast_001/env_overcast_001"/>
+	<model path="environments/vanilla/inner_env_bank_vault_sunny/inner_env_bank_vault_sunny"/>
+	<model path="environments/vanilla/env_night_007/env_night_007"/>
+	<model path="core/environments/skies/sky_0927_whispy_clouds/sky_0927_whispy_clouds"/>
+	<model path="environments/vanilla/env_sunset_001/env_sunset_001"/>
+	<model path="core/environments/skies/sky_2003_dusk_blue/sky_2003_dusk_blue"/>
+	<model path="core/environments/skies/sky_1313_cloudy/sky_1313_cloudy"/>
+	<model path="environments/vanilla/env_sunset_002/env_sunset_002"/>
+	<model path="environments/vanilla/env_sunset_009/env_sunset_009"/>
+	<model path="core/environments/skies/sky_1044_overcast_sun/sky_1044_overcast_sun"/>
+	<model path="environments/vanilla/env_sunset_010/env_sunset_010"/>
+	<model path="environments/vanilla/inner_env_bank_main_before_rain/inner_env_bank_main_before_rain"/>
+	<model path="environments/vanilla/env_sunset_008/env_sunset_008"/>
+	<model path="core/environments/skies/sky_1930_twillight/sky_1930_twillight"/>
+	<model path="environments/vanilla/inner_env_bank_building_02_before_rain/inner_env_bank_building_02_before_rain"/>
+	<model path="core/environments/skies/sky_1930_sunset_heavy_clouds/sky_1930_sunset_heavy_clouds"/>
+	<model path="core/environments/skies/sky_1830_low_sun_clouds/sky_1830_low_sun_clouds"/>
+	<model path="environments/vanilla/inner_env_bank_building_02_night/inner_env_bank_building_02_night"/>
+	<model path="environments/vanilla/inner_env_bank_building_02_sunny/inner_env_bank_building_02_sunny"/>
+	<model path="environments/vanilla/env_sunset_012/env_sunset_012"/>
+	<model path="environments/vanilla/env_sunset_011/env_sunset_011"/>
+	<model path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds"/>
+	<model path="environments/vanilla/env_twilight_001/env_twilight_001"/>
+	<model path="environments/vanilla/env_sunset_014/env_sunset_014"/>
+	<model path="environments/vanilla/env_sunset_007/env_sunset_007"/>
+	<model path="core/environments/skies/sky_1530_low_sun_clouds/sky_1530_low_sun_clouds"/>
+	<model path="core/environments/skies/sky_1008_cloudy/sky_1008_cloudy"/>
+	<model path="environments/vanilla/env_sunset_004/env_sunset_004"/>
+	<model path="environments/vanilla/env_sunset_003/env_sunset_003"/>
+	<model path="core/environments/skies/sky_2000_twilight_mad/sky_2000_twilight_mad"/>
+	<model path="environments/vanilla/inner_env_bank_vault_before_rain/inner_env_bank_vault_before_rain"/>
+	<model path="core/environments/skies/sky_1931_low_sun/sky_1931_low_sun"/>
+	<model path="core/environments/skies/sky_1945_sunset_clouds/sky_1945_sunset_clouds"/>
+	<model path="environments/vanilla/env_sunset_005/env_sunset_005"/>
+	<model path="environments/vanilla/inner_env_bank_main_night/inner_env_bank_main_night"/>
+	<model path="environments/vanilla/inner_env_bank_main_sunny/inner_env_bank_main_sunny"/>
+	<model path="environments/vanilla/env_sunset_006/env_sunset_006"/>
+	<model path="core/environments/skies/sky_1945_sunset/sky_1945_sunset"/>
+	<model path="environments/vanilla/env_day_sunny_002/env_day_sunny_002"/>
+	<model path="core/environments/skies/sky_2335_night_moon/sky_2335_night_moon"/>
+	<model path="core/environments/skies/sky_city_clear_high/sky_city_clear_high"/>
+	<model path="environments/vanilla/env_twilight_002/env_twilight_002"/>
+	<model path="environments/vanilla/inner_env_flaktrum_main_sunset/inner_env_flaktrum_main_sunset"/>
+	<model path="environments/vanilla/env_fog_001/env_fog_001"/>
+	<model path="environments/vanilla/env_before_rain_005/env_before_rain_005"/>
+	<model path="environments/vanilla/env_day_sunny_010/env_day_sunny_010"/>
+	<model path="environments/vanilla/env_before_rain_006/env_before_rain_006"/>
+	<model path="environments/vanilla/env_twilight_005/env_twilight_005"/>
+	<model path="environments/vanilla/env_day_sunny_009/env_day_sunny_009"/>
+	<model path="environments/vanilla/env_fog_002/env_fog_002"/>
+	<model path="environments/vanilla/env_fog_003/env_fog_003"/>
+	<model path="environments/vanilla/env_night_005/env_night_005"/>
+	<model path="environments/vanilla/inner_env_flaktrum_main_night_005b/inner_env_flaktrum_main_night_005b"/>
+	<model path="core/environments/skies/sky_0200_night_moon_stars/sky_0200_night_moon_stars"/>
+	<model path="environments/vanilla/env_before_rain_004/env_before_rain_004"/>
+	<model path="environments/vanilla/env_fog_004/env_fog_004"/>
+	<model path="environments/vanilla/env_hunters/env_hun_day"/>
+	<model path="environments/vanilla/inner_env_trainyard_main_fog/inner_env_trainyard_main_fog_001"/>
+	<model path="environments/vanilla/underwater_env_radio_twilight/underwater_env_radio_twilight"/>
+	<model path="environments/vanilla/env_day_sunny_004/env_day_sunny_004"/>
+	<model path="environments/vanilla/underwater_env_radio_sunny/underwater_env_radio_sunny"/>
+	<model path="environments/vanilla/inner_env_bank_building_01_before_rain/inner_env_bank_building_01_before_rain"/>
+	<model path="environments/vanilla/env_day_sunny_001/env_day_sunny_001"/>
+	<model path="environments/vanilla/env_twilight_006/env_twilight_006"/>
+	<model path="environments/vanilla/env_day_sunny_003/env_day_sunny_003"/>
+	<model path="environments/vanilla/env_day_sunny_008/env_day_sunny_008"/>
+	<model path="environments/vanilla/env_day_sunny_005/env_day_sunny_005"/>
+	<model path="environments/vanilla/env_day_sunny_006/env_day_sunny_006"/>
+	<model path="environments/vanilla/env_day_sunny_007/env_day_sunny_007"/>
+	<model path="core/environments/skies/default/default"/>
+	<model path="core/environments/skies/sky_1313_cloudy_dark/sky_1313_cloudy_dark"/>
+	<model path="environments/vanilla/env_camp_night/sky_2335_night_moon"/>
+	<model path="environments/vanilla/inner_env_trainyard_main_sunset/inner_env_trainyard_main_sunset"/>
+	<model path="environments/vanilla/env_before_rain_003/env_before_rain_003"/>
+	<model path="environments/vanilla/inner_env_flaktrum_main_night/inner_env_flaktrum_main_night"/>
+	<model path="environments/vanilla/env_hunters/env_hun_night"/>
+	<model path="environments/vanilla/env_night_001/env_night_001"/>
+	<model path="core/environments/skies/sky_cloudy_blue/sky_cloudy_blue"/>
+	<model path="environments/vanilla/env_night_002/env_night_002"/>
+	<model path="environments/vanilla/inner_env_castle_main_day/inner_env_castle_main_day"/>
+	<model path="environments/vanilla/env_twilight_004/env_twilight_004"/>
+	<model path="environments/vanilla/env_morning_005/env_morning_005"/>
+	<model path="core/environments/skies/sky_csgo_de_bank_cs15_daylight02/sky_csgo_de_bank_cs15_daylight02"/>
+	<model path="environments/vanilla/inner_env_bridge_main_sunset/inner_env_bridge_main_sunset"/>
+	<model path="core/environments/skies/sky_1345_clear_sky_mountain_01/sky_1345_clear_sky_mountain_01"/>
+	<model path="core/environments/skies/sky_city_clear/sky_city_clear"/>
+	<model path="environments/vanilla/inner_env_bridge_main_night/inner_env_bridge_main_night"/>
+	<model path="environments/vanilla/env_night_003/env_night_003"/>
+	<model path="environments/vanilla/env_night_004/env_night_004"/>
+	<model path="environments/vanilla/env_before_rain_001/env_before_rain_001"/>
+	<model path="core/environments/skies/sky_0902_overcast_dark/sky_0902_overcast_dark"/>
+	<model path="environments/vanilla/inner_env_castle_main_morning/inner_env_castle_main_morning"/>
+	<model path="environments/vanilla/env_twilight_003/env_twilight_003"/>
+	<model path="core/environments/skies/sky_0902_overcast/sky_0902_overcast"/>
+	<model path="environments/vanilla/inner_env_bank_building_01_night/inner_env_bank_building_01_night"/>
+	<model path="environments/vanilla/env_morning_004/env_morning_004"/>
+	<model path="core/environments/skies/sky_v2_030_sun_low/sky_v2_030_sun_low"/>
+	<model path="environments/vanilla/inner_env_castle_main_sunset/inner_env_castle_main_sunset"/>
+	<model path="environments/vanilla/env_morning_001/env_morning_001"/>
+	<model path="core/environments/skies/sky_1345_clear_sky/sky_1345_clear_sky"/>
+	<model path="environments/vanilla/env_morning_002/env_morning_002"/>
+	<model path="environments/vanilla/env_sunset_013/env_sunset_013"/>
+	<model path="environments/vanilla/env_morning_003/env_morning_003"/>
+	<model path="environments/vanilla/inner_env_castle_main_night/inner_env_castle_main_night"/>
+	<model path="core/environments/skies/sky_dah_night/sky_dah_night"/>
+	<model path="environments/vanilla/env_before_rain_002/env_before_rain_002"/>
+	<material_config path="core/environments/skies/sky_1313_cloudy/sky_1313_cloudy"/>
+	<material_config path="environments/vanilla/inner_env_bank_building_01_before_rain/inner_env_bank_building_01_before_rain"/>
+	<material_config path="core/environments/skies/sky_1224_clear_sky/sky_1224_clear_sky"/>
+	<material_config path="environments/vanilla/inner_env_bank_building_01_night/inner_env_bank_building_01_night"/>
+	<material_config path="environments/vanilla/inner_env_bank_building_02_before_rain/inner_env_bank_building_02_before_rain"/>
+	<material_config path="environments/vanilla/inner_env_bank_building_01_sunny/inner_env_bank_building_01_sunny"/>
+	<material_config path="environments/vanilla/inner_env_bridge_main_fog/inner_env_bridge_main_fog"/>
+	<material_config path="environments/vanilla/inner_env_bank_building_02_sunny/inner_env_bank_building_02_sunny"/>
+	<material_config path="environments/vanilla/inner_env_flaktrum_main_night/inner_env_flaktrum_main_night"/>
+	<material_config path="environments/vanilla/inner_env_flaktrum_main_night_005b/inner_env_flaktrum_main_night_005b"/>
+	<material_config path="environments/vanilla/inner_env_castle_main_sunset/inner_env_castle_main_sunset"/>
+	<material_config path="environments/vanilla/inner_env_castle_main_night/inner_env_castle_main_night"/>
+	<material_config path="core/environments/skies/sky_0902_overcast/sky_0902_overcast"/>
+	<material_config path="environments/vanilla/inner_env_castle_main_morning/inner_env_castle_main_morning"/>
+	<material_config path="core/environments/skies/sky_0200_night_moon_stars/sky_0200_night_moon_stars"/>
+	<material_config path="environments/vanilla/inner_env_trainyard_main_fog/inner_env_trainyard_main_fog_001"/>
+	<material_config path="environments/vanilla/underwater_env_radio_twilight/underwater_env_radio_twilight"/>
+	<material_config path="environments/vanilla/inner_env_flaktrum_main_sunset/inner_env_flaktrum_main_sunset"/>
+	<material_config path="core/environments/skies/default/default"/>
+	<material_config path="environments/vanilla/inner_env_trainyard_main_sunset/inner_env_trainyard_main_sunset"/>
+	<material_config path="environments/vanilla/underwater_env_radio_sunny/underwater_env_radio_sunny"/>
+	<material_config path="environments/vanilla/inner_env_bank_building_02_night/inner_env_bank_building_02_night"/>
+	<material_config path="environments/vanilla/inner_env_castle_main_day/inner_env_castle_main_day"/>
+	<material_config path="environments/vanilla/inner_env_bridge_main_sunset/inner_env_bridge_main_sunset"/>
+	<material_config path="environments/vanilla/inner_env_bank_main_sunny/inner_env_bank_main_sunny"/>
+	<material_config path="environments/vanilla/inner_env_bank_vault_before_rain/inner_env_bank_vault_before_rain"/>
+	<material_config path="environments/vanilla/inner_env_bank_main_night/inner_env_bank_main_night"/>
+	<material_config path="environments/vanilla/inner_env_bank_main_before_rain/inner_env_bank_main_before_rain"/>
+	<material_config path="core/environments/skies/sky_1044_overcast_sun/sky_1044_overcast_sun"/>
+	<material_config path="core/environments/skies/sky_0902_overcast_dark/sky_0902_overcast_dark"/>
+	<material_config path="core/environments/skies/sky_1008_cloudy/sky_1008_cloudy"/>
+	<material_config path="environments/vanilla/inner_env_bank_vault_sunny/inner_env_bank_vault_sunny"/>
+	<material_config path="environments/vanilla/inner_env_bridge_main_night/inner_env_bridge_main_night"/>
+	<material_config path="environments/vanilla/inner_env_bank_vault_night/inner_env_bank_vault_night"/>
+	<material_config path="core/environments/skies/sky_0927_whispy_clouds/sky_0927_whispy_clouds"/>
+	<material_config path="environments/vanilla/inner_env_bridge_main_day/inner_env_bridge_main_day"/>
+	<material_config path="environments/vanilla/env_day_sunny_002/env_day_sunny_002"/>
+	<material_config path="environments/vanilla/env_sunset_006/env_sunset_006"/>
+	<material_config path="core/environments/skies/sky_1313_cloudy_dark/sky_1313_cloudy"/>
+	<material_config path="core/environments/skies/sky_dah_night/sky_dah_night"/>
+	<material_config path="environments/vanilla/env_morning_004/env_morning_004"/>
+	<material_config path="environments/vanilla/env_before_rain_002/env_before_rain_002"/>
+	<material_config path="environments/vanilla/env_morning_005/env_morning_005"/>
+	<material_config path="environments/vanilla/env_morning_003/env_morning_003"/>
+	<material_config path="environments/vanilla/env_morning_002/env_morning_002"/>
+	<material_config path="core/environments/skies/sky_v2_030_sun_low/sky_v2_030_sun_low"/>
+	<material_config path="environments/vanilla/env_morning_001/env_morning_001"/>
+	<material_config path="environments/vanilla/env_before_rain_003/env_before_rain_003"/>
+	<material_config path="core/environments/skies/sky_csgo_de_bank_cs15_daylight02/sky_csgo_de_bank_cs15_daylight02"/>
+	<material_config path="core/environments/skies/sky_cloudy_blue/sky_cloudy_blue"/>
+	<material_config path="core/environments/skies/sky_city_clear/sky_city_clear"/>
+	<material_config path="environments/vanilla/env_night_005/env_night_005"/>
+	<material_config path="environments/vanilla/env_night_001/env_night_001"/>
+	<material_config path="environments/vanilla/env_night_004/env_night_004"/>
+	<material_config path="environments/vanilla/env_night_003/env_night_003"/>
+	<material_config path="core/environments/skies/sky_city_clear_high/sky_city_clear_high"/>
+	<material_config path="environments/vanilla/env_night_002/env_night_002"/>
+	<material_config path="environments/vanilla/env_before_rain_001/env_before_rain_001"/>
+	<material_config path="environments/vanilla/env_hunters/env_hun_night"/>
+	<material_config path="environments/vanilla/env_before_rain_004/env_before_rain_004"/>
+	<material_config path="environments/vanilla/env_day_sunny_006/env_day_sunny_006"/>
+	<material_config path="environments/vanilla/env_camp_night/sky_2335_night_moon"/>
+	<material_config path="environments/vanilla/env_day_sunny_007/env_day_sunny_007"/>
+	<material_config path="environments/vanilla/env_day_sunny_005/env_day_sunny_005"/>
+	<material_config path="environments/vanilla/env_day_sunny_004/env_day_sunny_004"/>
+	<material_config path="environments/vanilla/env_day_sunny_001/env_day_sunny_001"/>
+	<material_config path="environments/vanilla/env_day_sunny_003/env_day_sunny_003"/>
+	<material_config path="environments/vanilla/env_hunters/env_hun_day"/>
+	<material_config path="environments/vanilla/env_day_sunny_008/env_day_sunny_008"/>
+	<material_config path="environments/vanilla/env_before_rain_006/env_before_rain_006"/>
+	<material_config path="environments/vanilla/env_fog_003/env_fog_003"/>
+	<material_config path="environments/vanilla/env_fog_004/env_fog_004"/>
+	<material_config path="environments/vanilla/env_day_sunny_009/env_day_sunny_009"/>
+	<material_config path="environments/vanilla/env_before_rain_005/env_before_rain_005"/>
+	<material_config path="environments/vanilla/env_fog_001/env_fog_001"/>
+	<material_config path="environments/vanilla/env_fog_002/env_fog_002"/>
+	<material_config path="environments/vanilla/env_day_sunny_010/env_day_sunny_010"/>
+	<material_config path="environments/vanilla/env_twilight_006/env_twilight_006"/>
+	<material_config path="environments/vanilla/env_night_005_b/env_night_005_b"/>
+	<material_config path="environments/vanilla/env_night_006/env_night_006"/>
+	<material_config path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds"/>
+	<material_config path="environments/vanilla/env_sunset_013/env_sunset_013"/>
+	<material_config path="core/environments/skies/sky_1830_low_sun_clouds/sky_1830_low_sun_clouds"/>
+	<material_config path="environments/vanilla/env_sunset_012/env_sunset_012"/>
+	<material_config path="core/environments/skies/sky_1930_sunset_heavy_clouds/sky_1930_sunset_heavy_clouds"/>
+	<material_config path="environments/vanilla/env_sunset_011/env_sunset_011"/>
+	<material_config path="environments/vanilla/env_sunset_010/env_sunset_010"/>
+	<material_config path="core/environments/skies/sky_1930_twillight/sky_1930_twillight"/>
+	<material_config path="environments/vanilla/env_sunset_014/env_sunset_014"/>
+	<material_config path="core/environments/skies/sky_1530_low_sun_clouds/sky_1530_low_sun_clouds"/>
+	<material_config path="core/environments/skies/sky_1345_clear_sky/sky_1345_clear_sky"/>
+	<material_config path="environments/vanilla/env_twilight_005/env_twilight_005"/>
+	<material_config path="environments/vanilla/env_twilight_001/env_twilight_001"/>
+	<material_config path="environments/vanilla/env_twilight_004/env_twilight_004"/>
+	<material_config path="core/environments/skies/sky_1345_clear_sky_mountain_01/sky_1345_clear_sky_mountain_01"/>
+	<material_config path="environments/vanilla/env_twilight_003/env_twilight_003"/>
+	<material_config path="environments/vanilla/env_twilight_002/env_twilight_002"/>
+	<material_config path="core/environments/skies/sky_2335_night_moon/sky_2335_night_moon"/>
+	<material_config path="environments/vanilla/env_sunset_009/env_sunset_009"/>
+	<material_config path="core/environments/skies/sky_1931_low_sun/sky_1931_low_sun"/>
+	<material_config path="environments/vanilla/env_sps/sky_1900_semi_clear"/>
+	<material_config path="core/environments/skies/sky_2003_dusk_blue_high_color_scale/sky_2003_dusk_blue_high_color_scale"/>
+	<material_config path="environments/vanilla/env_sunset_001/env_sunset_001"/>
+	<material_config path="environments/vanilla/env_overcast_002/env_overcast_002"/>
+	<material_config path="core/environments/skies/sky_2100_moon/sky_2100_moon"/>
+	<material_config path="core/environments/skies/sky_2003_sunrise/sky_2003_sunrise"/>
+	<material_config path="environments/vanilla/env_night_007/env_night_007"/>
+	<material_config path="environments/vanilla/env_sunset_008/env_sunset_008"/>
+	<material_config path="core/environments/skies/sky_2003_dusk_blue/sky_2003_dusk_blue"/>
+	<material_config path="environments/vanilla/env_sunset_003/env_sunset_003"/>
+	<material_config path="core/environments/skies/sky_1945_sunset/sky_1945_sunset"/>
+	<material_config path="environments/vanilla/env_sunset_007/env_sunset_007"/>
+	<material_config path="environments/vanilla/env_sunset_002/env_sunset_002"/>
+	<material_config path="environments/vanilla/env_sunset_005/env_sunset_005"/>
+	<material_config path="environments/vanilla/env_sunset_004/env_sunset_004"/>
+	<material_config path="core/environments/skies/sky_1945_sunset_clouds/sky_1945_sunset_clouds"/>
+	<material_config path="core/environments/skies/sky_2000_twilight_mad/sky_2000_twilight_mad"/>
+	<material_config path="environments/vanilla/env_overcast_001/env_overcast_001"/>
+
+	<texture path="core/environments/skies/sky_cloudy_blue/sky_cloudy_blue"/>
+</table>

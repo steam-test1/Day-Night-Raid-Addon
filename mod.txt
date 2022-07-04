@@ -1,0 +1,13 @@
+{
+	"name" : "Day and Night Raid Addon",
+	"description" : "Adds all the heists and can be customized with any time setting!",
+	"author" : "Test1",
+	"contact" : "Test1",
+	"version" : "1",
+	"blt_version": 2,
+	"hooks" : [
+		{	"hook_id" : "core/lib/managers/coresequencemanager",
+			"script_path" : "CustomEnv.lua"
+		}
+	]
+}
