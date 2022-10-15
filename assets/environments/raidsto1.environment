@@ -1,0 +1,95 @@
+<environment>
+	<metadata/>
+	<data>
+		<others>
+			<param key="sky_rotation" value="295"/>
+			<param key="global_world_overlay_mask_texture" value=""/>
+			<param key="underlay" value="environments/vanilla/env_day_sunny_001/env_day_sunny_001"/>
+			<param key="sun_ray_color_scale" value="8.093"/>
+			<param key="global_world_overlay_texture" value=""/>
+			<param key="sun_ray_color" value="0.85882354 0.5294118 0.3372549"/>
+			<param key="global_texture" value="environments/vanilla/cubemaps/env_day_sunny_001"/>
+			<param key="colorgrade" value="environments/vanilla/cg/cg_default"/>
+		</others>
+		<post_effect>
+			<deferred>
+				<deferred_lighting>
+					<apply_ambient>
+						<param key="sky_bottom_color" value="0.5984252 0.49047402 0.39190987"/>
+						<param key="fog_start_color" value="0.30273277 0.450579 0.5984252"/>
+						<param key="effect_light_scale" value="1"/>
+						<param key="fog_far_low_color" value="0.32505792 0.49161652 0.6850394"/>
+						<param key="fog_min_range" value="468"/>
+						<param key="ambient_falloff_scale" value="0.18"/>
+						<param key="spec_factor" value="0"/>
+						<param key="ambient_color_scale" value="0.683"/>
+						<param key="ambient_color" value="0.27271885 0.49207968 0.7559055"/>
+						<param key="fog_max_range" value="100719"/>
+						<param key="sky_bottom_color_scale" value="0"/>
+						<param key="sky_top_color_scale" value="3.417"/>
+						<param key="sky_top_color" value="0.062992156 0.044465054 0.030384451"/>
+						<param key="gloss_factor" value="0"/>
+						<param key="fog_max_density" value="0.223"/>
+					</apply_ambient>
+				</deferred_lighting>
+			</deferred>
+			<shadow_processor>
+				<shadow_rendering>
+					<shadow_modifier>
+						<param key="slice3" value="9999 50000 0"/>
+						<param key="shadow_slice_depths" value="2500 4000 10000"/>
+						<param key="slice0" value="0 2500 0"/>
+						<param key="slice1" value="2450 4000 0"/>
+						<param key="slice2" value="3900 10000 0"/>
+						<param key="shadow_slice_overlap" value="50 100 1"/>
+					</shadow_modifier>
+				</shadow_rendering>
+			</shadow_processor>
+			<lens_flare_post_processor>
+				<lens_flare_effect>
+					<lens_flare_material>
+						<param key="downsample_bias" value="0.949"/>
+						<param key="chromatic_distortion" value="5"/>
+						<param key="downsample_scale" value="9"/>
+						<param key="weight_exponent" value="17"/>
+						<param key="halo_width" value="0.726"/>
+						<param key="ghost_dispersal" value="0.165"/>
+					</lens_flare_material>
+				</lens_flare_effect>
+			</lens_flare_post_processor>
+			<SSAO_post_processor>
+				<SSAO>
+					<apply_SSAO>
+						<param key="ssao_radius" value="100"/>
+						<param key="ssao_intensity" value="10"/>
+					</apply_SSAO>
+				</SSAO>
+			</SSAO_post_processor>
+			<volumetric_light_scatter>
+				<volumetric_light_scatter>
+					<post_volumetric_light_scatter>
+						<param key="light_scatter_density" value="0.403"/>
+						<param key="light_scatter_decay" value="0.96"/>
+						<param key="light_scatter_exposure" value="0.669"/>
+						<param key="light_scatter_weight" value="0.029"/>
+					</post_volumetric_light_scatter>
+				</volumetric_light_scatter>
+			</volumetric_light_scatter>
+			<bloom_combine_post_processor>
+				<bloom_DOF_combine>
+					<post_DOF>
+						<param key="bloom_intensity" value="0.593"/>
+					</post_DOF>
+				</bloom_DOF_combine>
+			</bloom_combine_post_processor>
+		</post_effect>
+		<underlay_effect>
+			<sky>
+				<param key="color0" value="0 0 0"/>
+				<param key="color2" value="0 0 0"/>
+				<param key="color2_scale" value="0"/>
+				<param key="color0_scale" value="0"/>
+			</sky>
+		</underlay_effect>
+	</data>
+</environment>
